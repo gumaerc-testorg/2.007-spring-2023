@@ -42,9 +42,10 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Problem Sets with Solutions",
     "Activity Assignments with Examples",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Problem Sets",
+    "Problem Set Solutions"
   ],
   "site_uid": "adcc6415-7c5d-49e4-a0f1-155cbc7356ea",
   "site_short_id": "2.007-spring-2023",

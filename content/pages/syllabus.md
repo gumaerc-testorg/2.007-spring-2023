@@ -15,19 +15,19 @@ Labs: 1 session / week, 3 hours / session
 
 ## Prerequisites
 
-{{% resource_link "f6dc9a1c-395c-44db-b3fa-f42ff7718710" "*2.001 Mechanics and Materials I*" %}}
+[*2.001 Mechanics and Materials I*](https://ocw.mit.edu/courses/2-001-mechanics-materials-i-fall-2006/)
 
-{{% resource_link "06658a8a-56df-4dfc-8e36-8120d4fb5854" "*2.670 Mechanical Engineering Tools*" %}}
+[*2.670 Mechanical Engineering Tools*](https://ocw.mit.edu/courses/2-670-mechanical-engineering-tools-january-iap-2004/)
 
 ## Corequisite
 
-{{% resource_link "9e678d0f-0395-42f7-a4e9-8f07151bab82" "*2.086 Numerical Computation for Mechanical Engineers*" %}}
+[*2.086 Numerical Computation for Mechanical Engineers*](https://ocw.mit.edu/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/)
 
 ## Course Description
 
 This course develops students' competence and self-confidence as design engineers. It emphasizes the creative design process bolstered by application of physical laws. Robustness and manufacturability are emphasized, too. Students will learn how to complete projects on schedule and within budget. Subject relies on active learning via a major design-and-build project.
 
-From its beginnings in 1970, the 2.007 final project competition has grown into an Olympics of engineering.  See this {{% resource_link "0d8cc87e-e9b3-43b4-88e8-615c4857744e" "MIT News story" %}} for more background, a photo gallery, and videos about this course.
+From its beginnings in 1970, the 2.007 final project competition has grown into an Olympics of engineering.  See this [MIT News story](http://web.mit.edu/newsoffice/2011/timeline-2007-0209.html) for more background, a photo gallery, and videos about this course.
 
 ## Milestones
 

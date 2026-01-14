@@ -10,7 +10,8 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets with Solutions
+- Problem Sets
+- Problem Set Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'Written Homework 3 Solution: Motors and Mechanisms'
